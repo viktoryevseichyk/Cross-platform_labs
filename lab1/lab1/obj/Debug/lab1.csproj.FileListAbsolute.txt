@@ -1,0 +1,7 @@
+E:\CrossProg\lab1\lab1\bin\Debug\lab1.exe.config
+E:\CrossProg\lab1\lab1\bin\Debug\lab1.exe
+E:\CrossProg\lab1\lab1\bin\Debug\lab1.pdb
+E:\CrossProg\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+E:\CrossProg\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\CrossProg\lab1\lab1\obj\Debug\lab1.exe
+E:\CrossProg\lab1\lab1\obj\Debug\lab1.pdb
