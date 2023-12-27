@@ -1,0 +1,11 @@
+E:\lab4\lab4Libraries\bin\Debug\net7.0\lab4Libraries.deps.json
+E:\lab4\lab4Libraries\bin\Debug\net7.0\lab4Libraries.dll
+E:\lab4\lab4Libraries\bin\Debug\net7.0\lab4Libraries.pdb
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.AssemblyInfoInputs.cache
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.AssemblyInfo.cs
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.csproj.CoreCompileInputs.cache
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.dll
+E:\lab4\lab4Libraries\obj\Debug\net7.0\refint\lab4Libraries.dll
+E:\lab4\lab4Libraries\obj\Debug\net7.0\lab4Libraries.pdb
+E:\lab4\lab4Libraries\obj\Debug\net7.0\ref\lab4Libraries.dll

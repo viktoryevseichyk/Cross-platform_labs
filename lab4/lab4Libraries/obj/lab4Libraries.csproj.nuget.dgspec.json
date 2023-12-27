@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\lab4\\lab4Libraries\\lab4Libraries.csproj": {}
+  },
+  "projects": {
+    "E:\\lab4\\lab4Libraries\\lab4Libraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\lab4\\lab4Libraries\\lab4Libraries.csproj",
+        "projectName": "lab4Libraries",
+        "projectPath": "E:\\lab4\\lab4Libraries\\lab4Libraries.csproj",
+        "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+        "outputPath": "E:\\lab4\\lab4Libraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

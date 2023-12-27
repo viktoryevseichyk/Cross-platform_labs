@@ -1,0 +1,8 @@
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.exe
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.dll
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.deps.json
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.runtimeconfig.json
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.pdb
+E:\lab4\lab4\bin\Debug\net7.0\publish\McMaster.Extensions.CommandLineUtils.dll
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4Libraries.dll
+E:\lab4\lab4\bin\Debug\net7.0\publish\lab4Libraries.pdb

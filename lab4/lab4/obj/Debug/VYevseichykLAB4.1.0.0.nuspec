@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VYevseichykLAB4</id>
+    <version>1.0.0</version>
+    <title>VYevseichyk</title>
+    <authors>Viktor Yevseichyk</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="E:\lab4\lab4\obj\DotnetToolSettings.xml" target="tools\net7.0\any\DotnetToolSettings.xml" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.dll" target="tools\net7.0\any\lab4.dll" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.deps.json" target="tools\net7.0\any\lab4.deps.json" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.runtimeconfig.json" target="tools\net7.0\any\lab4.runtimeconfig.json" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4.pdb" target="tools\net7.0\any\lab4.pdb" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net7.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4Libraries.dll" target="tools\net7.0\any\lab4Libraries.dll" />
+    <file src="E:\lab4\lab4\bin\Debug\net7.0\publish\lab4Libraries.pdb" target="tools\net7.0\any\lab4Libraries.pdb" />
+  </files>
+</package>
